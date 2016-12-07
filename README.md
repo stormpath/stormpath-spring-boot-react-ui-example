@@ -1,6 +1,6 @@
 # Spring Boot and the React SDK
 
-This is the code developed in the tutorial on using Spring Boot with the Stormpath React SDK.
+This is the code developed in the [tutorial on using Spring Boot with the Stormpath React SDK](https://stormpath.com/blog/spring-boot-stormpath-react-sdk).
 
 ### Requirements
 
